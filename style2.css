@@ -6,7 +6,7 @@ body {
 }
 header {
   height:100vh;
-  background-image:url("IMG/roue2.jpg");
+  background-image:url("img/roue2.jpg");
   background-size:cover;
 }
 
@@ -71,7 +71,7 @@ h2{
 #index img {
   margin:5px;
   border:solid; color:#d8d7d7;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 p {
@@ -84,7 +84,7 @@ p {
 #page3 img {
   margin: 5px;
   border: solid; color:#d8d7d7;
-  margin-left: 500px;
+  margin-left: 600px;
 }
 
 #page2 h2 {
