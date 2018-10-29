@@ -136,6 +136,18 @@ p {
   margin-right: 45px;
 }
 
+#page4 img {
+  margin:5px;
+  border:solid; color:#d8d7d7;
+  margin-left: 511px;
+}
+
+#page3 img {
+  margin:5px;
+  border:solid; color:#d8d7d7;
+  margin-left: 511px;
+}
+
 h2 {
   text-align: center;
   padding-top: 10px;
