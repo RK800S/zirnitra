@@ -79,6 +79,7 @@ p {
   font-family: 'Exo',sans-serif;
   font-size: 14px;
   text-align: center;
+  padding-bottom: 17px;
 }
 
 #page3 img {
@@ -96,6 +97,18 @@ p {
 #page2 img {
   margin-left: 75px;
   padding-bottom: 10px;
+}
+
+p1 {
+  background-color: #ffc3a3;
+  margin-left: 60px;
+  padding: 15px;
+}
+
+p2 {
+  background-color: #ffffff;
+  margin-left: 60px;
+  padding: 15px;
 }
 
 h2 {
