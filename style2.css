@@ -129,6 +129,12 @@ p {
   margin-right: 45px;
 }
 
+#page4 p {
+  padding:inherit;
+  font-size: 12px;
+  text-align: center;
+}
+
 h2 {
   text-align: center;
   padding-top: 10px;
