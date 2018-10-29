@@ -133,6 +133,8 @@ p {
   padding:inherit;
   font-size: 12px;
   text-align: center;
+  margin-left: 65px;
+  margin-right: 45px;
 }
 
 h2 {
