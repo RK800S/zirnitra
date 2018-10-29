@@ -59,7 +59,7 @@ header h1 {
   min-height: 100vh;
 }
 
-h2{
+h2 {
   background-color: #ffc3a3;
   font-family:'Exo', sans-serif;
   color: #151515;
@@ -71,17 +71,25 @@ h2{
 #index img {
   margin:5px;
   border:solid; color:#d8d7d7;
-  margin-left: 511px;
+  margin-left: 480px;
 }
 
 #index h2 {
-  color: #ffc3a3;
+  color: #000000;
   background-color: #ffc3a3;
   margin-left: 60px;
   padding: 15px;
 }
 
-p {
+#index h3 {
+  margin-left: 65px;
+  padding: 15px;
+  margin-right: 55px;
+  background-color: #ffc3a3;
+  color: #ffc3a3;
+}
+
+ #index p {
   font-weight: bold; color: #000000;
   font-family: 'Exo',sans-serif;
   font-size: 14px;
@@ -117,35 +125,45 @@ p {
   color: #ffc3a3;
   background-color: #ffc3a3;
   margin-left: 65px;
-  margin-right: 50px;
+  margin-right: 55px;
   padding: 15px;
 }
 
 #page3 p {
   padding: inherit;
-  font-size: 12px;
+  font-size: 13px;
   text-align: left;
-  margin-left: 65px;
-  margin-right: 45px;
-}
-
-#page4 p {
-  font-size: 14px;
-  text-align: center;
-  margin-left: 65px;
-  margin-right: 45px;
+  margin-left: 68px;
+  margin-right: 55px;
+  font-weight: bold;
+  font-family: 'Exo', sans-serif;
 }
 
 #page4 img {
   margin:5px;
   border:solid; color:#d8d7d7;
-  margin-left: 511px;
+  margin-left: 480px;
 }
 
 #page3 img {
   margin:5px;
   border:solid; color:#d8d7d7;
-  margin-left: 511px;
+  margin-left: 480px;
+}
+
+#page4 p {
+  font-weight: bold; color: #000000;
+  font-family: 'Exo',sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
+
+#page4 h1 {
+  color: #ffc3a3;
+  background-color: #ffc3a3;
+  margin-left: 65px;
+  margin-right: 55px;
+  padding: 15px;
 }
 
 h2 {
@@ -172,3 +190,5 @@ footer p {
 #reseaux-sociaux {
   padding:30px;
 }
+
+@media all and (max-width: 480px;)
