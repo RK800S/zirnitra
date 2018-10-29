@@ -101,22 +101,24 @@ p {
   color: #151515;
 }
 
-#page3 h1 {
+#page2 h3 {
   color: #ffc3a3;
   background-color: #ffc3a3;
-  margin-left: 60px;
   padding: 15px;
+  margin-right: 40px;
+  margin-left: 50px;
 }
 
 #page2 img {
-  margin-left: 75px;
-  padding-bottom: 10px;
+  margin-left: 67px;
+  padding-bottom: 2px;
 }
 
-#page3 h2 {
+#page3 h1 {
   color: #ffc3a3;
   background-color: #ffc3a3;
-  margin-left: 60px;
+  margin-left: 65px;
+  margin-right: 50px;
   padding: 15px;
 }
 
