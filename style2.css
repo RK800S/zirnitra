@@ -199,11 +199,12 @@ footer p {
 
 @media all and (max-width: 480px;) {
   p {font-size: 14px;}
-  img {margin: auto;)
+  img {max-width: 100%
+      height:auto;}
 }
 
 @media all and (max-width: 640px) {
   p {font-size: 14px;}
-  img {margin: auto;}
-
+  img {max-width: 100%
+       height:auto; }
 }
