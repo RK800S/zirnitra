@@ -197,6 +197,7 @@ footer p {
   padding:30px;
 }
 
+.container {width: 80%}
 @media (max-width: 640px) {
 .container {
 position: relative;
