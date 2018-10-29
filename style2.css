@@ -199,4 +199,5 @@ footer p {
 
 @media all and (max-width: 480px;) {
   p {font-size: 14px;}
+  img {image-orientation: center;)
 }
