@@ -74,6 +74,13 @@ h2{
   margin-left: 511px;
 }
 
+#index h2 {
+  color: #ffc3a3;
+  background-color: #ffc3a3;
+  margin-left: 60px;
+  padding: 15px;
+}
+
 p {
   font-weight: bold; color: #000000;
   font-family: 'Exo',sans-serif;
@@ -94,19 +101,21 @@ p {
   color: #151515;
 }
 
-#page2 img {
-  margin-left: 75px;
-  padding-bottom: 10px;
-}
-
-p1 {
+#page3 h1 {
+  color: #ffc3a3;
   background-color: #ffc3a3;
   margin-left: 60px;
   padding: 15px;
 }
 
-p2 {
-  background-color: #ffffff;
+#page2 img {
+  margin-left: 75px;
+  padding-bottom: 10px;
+}
+
+#page3 h2 {
+  color: #ffc3a3;
+  background-color: #ffc3a3;
   margin-left: 60px;
   padding: 15px;
 }
