@@ -86,7 +86,6 @@ p {
   font-family: 'Exo',sans-serif;
   font-size: 14px;
   text-align: center;
-  padding-bottom: 17px;
 }
 
 #page3 img {
@@ -120,6 +119,14 @@ p {
   margin-left: 65px;
   margin-right: 50px;
   padding: 15px;
+}
+
+#page3 p {
+  padding: inherit;
+  font-size: 12px;
+  text-align: left;
+  margin-left: 65px;
+  margin-right: 45px;
 }
 
 h2 {
