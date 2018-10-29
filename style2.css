@@ -137,12 +137,11 @@ h2 {
 }
 
 #page3 p {
-  padding: inherit;
-  font-size: 13px;
+  font-size: 14px;
   text-align: left;
   margin-left: 68px;
   margin-right: 55px;
-  font-weight: bold;
+  font-weight: bold; color: #000000;
   font-family: 'Exo', sans-serif;
 }
 
@@ -198,4 +197,6 @@ footer p {
   padding:30px;
 }
 
-@media all and (max-width: 480px;)
+@media all and (max-width: 480px;) {
+  p {font-size: 14px;}
+}
