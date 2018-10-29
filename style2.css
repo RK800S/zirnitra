@@ -197,10 +197,7 @@ footer p {
   padding:30px;
 }
 
-.container {width: 80%}
-@media (max-width: 640px) {
-  img {margin:center;}
-.container {
-position: relative;
-bottom: 0;
-}
+@media (max-width: 600px) {
+  .sidebar {
+    display: none;
+  }
